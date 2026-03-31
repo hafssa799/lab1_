@@ -76,7 +76,10 @@ Fonctionnalités implémentées :
 
 ## 📸 Aperçu Final
 
-🎥 **[Cliquez ici pour voir la démonstration vidéo de l'application]()**
+Vous pouvez voir le fonctionnement de l'application (incrémentation et toast) ici :
+
+![Regarder la vidéo](media/Enregistrement_ecran_2026-03-31.mp4)
+
 
 ### Fonctionnement :
 *   **Initialisation** : L'interface affiche le compteur à 0.
