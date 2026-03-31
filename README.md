@@ -76,9 +76,9 @@ Fonctionnalités implémentées :
 
 ## 📸 Aperçu Final
 
-Vous pouvez voir le fonctionnement de l'application (incrémentation et toast) ici :
+📹 Vous pouvez voir le fonctionnement de l'application (incrémentation et toast) ici :
 
-![Regarder la vidéo](media/Enregistrement_ecran_2026-03-31.mp4)
+👉 [Regarder la vidéo](https://raw.githubusercontent.com/hafssa799/lab1_/main/media/Enregistrement%20de%20l'%C3%A9cran%202026-03-31%20154043.mp4)
 
 
 ### Fonctionnement :
